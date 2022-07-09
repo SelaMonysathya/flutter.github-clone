@@ -86,8 +86,8 @@ const List exploreTrending = [
   },
   {
     "hasImageUrl": true,
-    "imageUrl": "https://spotlights-feed.github.com/spotlights/the-download/the-download.jpeg",
-    "profileUrl": "https://spotlights-feed.github.com/spotlights/the-download/the-download.jpeg",
+    "imageUrl": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVjaG9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "profileUrl": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVjaG9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
     "profileName": "CodeEditor",
     "profileUsername": "CodeEditApp",
     "description": "CodeEditor is a free, open-source, cross-platform code editor for macOS, Windows, and Linux. It’s a powerful, easy-to-use, and easy-to-customize code editor that’s easy to use and easy to learn.",

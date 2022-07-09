@@ -92,8 +92,8 @@ class ExplorePage extends StatelessWidget {
         SlideInDown(
           child: Column(
             children: [
-              Container(
-                color: dark,
+              SingleChildScrollView(
+                scrollDirection: Axis.horizontal,
                 padding: EdgeInsets.symmetric(horizontal: defaultPadding, vertical: defaultPadding / 2),
                 child: Row(
                   children: [
@@ -103,7 +103,7 @@ class ExplorePage extends StatelessWidget {
                       hasLeftIcon: true,
                       iconData: LineIcons.angleDown,
                     ),
-                    SizedBox(width: defaultPadding / 2,),
+                    SizedBox(width: defaultPadding / 3,),
                     ButtonBorderRadius(
                       onTap: () {},
                       text: "Language",
