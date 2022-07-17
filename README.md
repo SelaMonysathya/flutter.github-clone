@@ -3,7 +3,7 @@
 ![Mockup](https://user-images.githubusercontent.com/45874497/179390499-4266a1fb-3fab-46a4-97e0-50a64cb9f158.jpg)
 
 Today we gonna build Dating app #UI using #Flutter. That has two parts such as:
-- Part I: Home Page, Notification Page, Explore Page, and Account Page
+Home Page, Notification Page, Explore Page, and Account Page.
 
 [YouTube Link](https://bit.ly/3yvUL2t)
 
