@@ -1,16 +1,14 @@
-# github_clone
+# Github Clone App UI
 
-A new Flutter project.
+![Mockup](https://user-images.githubusercontent.com/45874497/179390499-4266a1fb-3fab-46a4-97e0-50a64cb9f158.jpg)
 
-## Getting Started
+Today we gonna build Dating app #UI using #Flutter. That has two parts such as:
+- Part I: Home Page, Notification Page, Explore Page, and Account Page
 
-This project is a starting point for a Flutter application.
+[YouTube Link](https://bit.ly/3yvUL2t)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Connect with me:
+- [Youtube](https://bit.ly/3u1KPIU)
+- [Facebook](https://bit.ly/2NDW62g)
+- [Facebook Page](https://bit.ly/3rE7Fqj)
+- [Instagram](https://bit.ly/3atGA0X)
